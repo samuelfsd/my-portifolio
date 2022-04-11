@@ -1,6 +1,23 @@
 {
-  "id": "369894a7-80ea-47a0-bed1-c251a10b0b1f",
-  "uid": "cupiditate-repellendus-voluptatem",
+  "id": "f9be11ce-8188-4e80-a512-fff087106edf",
+  "uid": "dolores-asperiores-fuga",
   "type": "my-project",
-  "data": {}
+  "data": {
+    "Title": "syndicate visionary vortals",
+    "description": "recontextualize bricks-and-clicks e-business",
+    "type": "matrix cross-media deliverables",
+    "link": {
+      "link_type": "Web",
+      "url": "https://slicemachine.dev"
+    },
+    "image": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118?w=900&h=500&fit=crop"
+    }
+  }
 }

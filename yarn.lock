@@ -1559,13 +1559,12 @@
   resolved "https://registry.npmjs.org/@opentelemetry/context-base/-/context-base-0.14.0.tgz"
   integrity sha512-sDOAZcYwynHFTbLo6n8kIbLiVF3a3BLkrmehJUyEbT9F+Smbi47kLGS2gG2g0fjBLR/Lr1InPD7kXL7FaTqEkw==
 
-"@prismicio/client@^6.4.2":
-  version "6.4.2"
-  resolved "https://registry.yarnpkg.com/@prismicio/client/-/client-6.4.2.tgz#9a226c466acb55d2db22350e8850ebfb4fb35378"
-  integrity sha512-2WIqKEuusPXdEY36PfhXQDfniGT1Gp+ORMkvJEz9cjxMscQQDcxaQjMqZHlYArLMKn/NyhqE3hlxeJ/QasUPgA==
+"@prismicio/client@5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@prismicio/client/-/client-5.1.0.tgz#f236d7fca09535d61e599872e7c38afda62b8b3c"
+  integrity sha512-LCb+arVVxJOoPM+8qfLCC/Dqse7mh+Q1k3oo5W5Uzu7vVO+vtc7CUYHxgCDkvekakYHc9407kwWu65ErZw+CPQ==
   dependencies:
-    "@prismicio/helpers" "^2.2.1"
-    "@prismicio/types" "^0.1.27"
+    cross-fetch "^3.0.6"
 
 "@prismicio/helpers@^2.2.1":
   version "2.2.1"
@@ -3226,7 +3225,7 @@ create-hmac@^1.1.0, create-hmac@^1.1.4, create-hmac@^1.1.7:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-cross-fetch@3.1.5:
+cross-fetch@3.1.5, cross-fetch@^3.0.6:
   version "3.1.5"
   resolved "https://registry.yarnpkg.com/cross-fetch/-/cross-fetch-3.1.5.tgz#e1389f44d9e7ba767907f7af8454787952ab534f"
   integrity sha512-lvb1SBsI0Z7GDwmuid+mU3kWVBwTVUbe7S0H52yaaAdQOXq2YktTCZdlAcNKFzE6QtRz0snpw9bNiPeOIkkQvw==
